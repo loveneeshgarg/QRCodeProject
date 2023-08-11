@@ -1,0 +1,17 @@
+{
+  "name": "qr_code",
+  "version": "1.0.0",
+  "description": "going to make qr code generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lovneesh",
+  "license": "ISC",
+  "dependencies": {
+    "filesystem": "^1.0.1",
+    "inquirer": "^9.2.8",
+    "qr-image": "^3.2.0"
+  }
+}
